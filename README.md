@@ -1,7 +1,7 @@
 Name:- TUSHAR PATWA
 Company:- CODTECH IT SOLUTIONS
 ID:-CT08ESY
-Duration:-30th December 2024 to 30th January 2025
+Duration:-20th December 2024 to 20th January 2025
 Domain:- FRONTEND WEB DEVELOPMENET
 
 OVERVIEW OF THE PROJECT
